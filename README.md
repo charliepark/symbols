@@ -6,5 +6,5 @@ A quickref for various typographic symbols I use and don't want to bother lookin
 
 <table>
   <tr><th>Symbol Name</th><th>Written</th><th>HTML</th></tr>
-  <tr><td>Ellipsis</td><td>…</td><td>\&hellip;</td></tr>
+  <tr><td>Ellipsis</td><td>…</td><td>`&hellip;`</td></tr>
 </table>
