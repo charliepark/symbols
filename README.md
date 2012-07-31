@@ -7,4 +7,6 @@ A quickref for various typographic symbols I use and don't want to bother lookin
 <table>
   <tr><th>Symbol Name</th><th>Written</th><th>HTML</th><th>Keyboard Shortcut</th></tr>
   <tr><td>Ellipsis</td><td>…</td><td>&amp;hellip;</td><td>option + semicolon</td></tr>
+  <tr><td>Em-Dash</td><td>—</td><td>&amp;mdash;</td><td>shift + option + dash</td></tr>
+  <tr><td>En-Dash</td><td>–</td><td>&amp;ndash;</td><td>option + dash</td></tr>
 </table>
