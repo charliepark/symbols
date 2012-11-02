@@ -10,6 +10,6 @@ A quickref for various typographic symbols I use and don't want to bother lookin
   <tr><td>Em-Dash</td><td>—</td><td>&amp;mdash;</td><td>shift + option + dash</td></tr>
   <tr><td>En-Dash</td><td>–</td><td>&amp;ndash;</td><td>option + dash</td></tr>
   <tr><td>Fraction: 1/2</td><td>½</td><td>&amp;frac12;</td><td>n/a</td></tr>
-  <tr><td>Star - Black</td><td>★</td><td>&#9733;</td><td>n/a</td></tr>
-  <tr><td>Star - White</td><td>☆</td><td>&#9734;</td><td>n/a</td></tr>
+  <tr><td>Star - Black</td><td>★</td><td>&amp;#9733;</td><td>n/a</td></tr>
+  <tr><td>Star - White</td><td>☆</td><td>&amp;#9734;</td><td>n/a</td></tr>
 </table>
